@@ -1,0 +1,4 @@
+/glops
+/dist/
+*.exe
+config.json
